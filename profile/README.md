@@ -4,11 +4,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wpKradEZgxwQ92yp2WG2FVGPKXipGvh4Dw&s" alt="H&R Block Tax Software Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://hr-and-r-block.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_H&R_Block_Tax_Software-blue?style=for-the-badge&logo=github" alt="Get H&R Block Tax Software"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://azalinaw273.github.io/.github/H&R-Block)
 
 ---
 
